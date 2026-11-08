@@ -1,6 +1,9 @@
 
 # Banana Ripeness AI Dashboard
 
+# Streamlit Cloud entrypoint
+from app.app import *
+
 import ast
 import gc
 import json
